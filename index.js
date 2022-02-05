@@ -1,4 +1,4 @@
-var API = "AIzaSyDNyiYQNIeBmBpJBWBCg7FfM11507dgIcI";
+var API = "Your API Key";
 var PrefixURL = "https://www.googleapis.com/blogger/v3/blogs/";
 var requestURL = PrefixURL + "4773301202353643011?key=" + API;
 var proxy = "https://thawing-lake-15954.herokuapp.com/";
